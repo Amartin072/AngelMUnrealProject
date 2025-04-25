@@ -70,6 +70,5 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 
-# Cache files for the editor to use
-DerivedDataCache/*
-*.uasset
+
+Content/Kraken/Textures/Tex_KRAKEN_BODY_RoughnessMetallicSpecular.uasset
